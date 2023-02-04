@@ -35,10 +35,7 @@ import org.apache.commons.lang.StringUtils;
 import org.kapott.hbci.GV.SepaUtil;
 import org.kapott.hbci.GV.generators.ISEPAGenerator;
 import org.kapott.hbci.GV.generators.SEPAGeneratorFactory;
-import org.kapott.hbci.manager.HBCIUtils;
 import org.kapott.hbci.sepa.SepaVersion;
-import org.kapott.hbci.sepa.SepaVersion.Type;
-
 import com.itextpdf.text.DocumentException;
 
 import de.jost_net.JVerein.Einstellungen;

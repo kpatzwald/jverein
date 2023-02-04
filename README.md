@@ -19,7 +19,7 @@ JVerein nutzt die Homebankingsoftware Hibiscus und das GUI-Framework Jameica. F�
 
 Das GIT-Repository von JVerein kann dann über https://github.com/openjverein/jverein verwendet werden.
 
-Das JVerein Repo sollte am Besten geforkt werden. Über "Request Merge" können Änderungen ins JVerein Repo zurück gespielt werden.
+Das JVerein Repo sollte am besten geforkt werden. Über "Request Merge" können Änderungen ins JVerein Repo zurückgespielt werden.
 
 Entwicklungsumgebung
 --------------------
